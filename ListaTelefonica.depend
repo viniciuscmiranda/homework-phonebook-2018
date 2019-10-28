@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1529915604 source:c:\users\gabriel\desktop\listatelefonica\main.cpp
+	<iostream>
+
+1541446132 source:e:\fatec\1 semestre\2_alp\@concluido@\listatelefonica\main.cpp
+	<iostream>
+	<locale.h>
+	<string.h>
+
